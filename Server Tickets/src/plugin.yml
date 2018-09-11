@@ -1,0 +1,6 @@
+name: Server-Tickets
+version: 1.0.0
+main: me.mrgeneralq.servertickets.Main
+commands:
+  sos:
+  ticket:
